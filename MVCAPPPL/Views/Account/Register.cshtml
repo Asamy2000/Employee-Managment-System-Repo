@@ -1,0 +1,95 @@
+﻿@model RegisterVM
+@{
+    ViewData["Title"] = "Register";
+    // Layout = "~/Views/Shared/_Authlayout.cshtml";
+    Layout = "~/Views/Shared/_SecurityLayout.cshtml";
+}
+
+@* <div class="main-agileinfo">
+	<div class="agileits-top">
+		<form asp-action="Register" method="post">
+			<input class="text w3lpass" asp-for="Fname" placeholder="First name" required="">
+			<input class="text w3lpass" asp-for="Lname" placeholder="Last name" required="">
+			<input class="text w3lpass" asp-for="Email" placeholder="Email" required="">
+			<input class="text w3lpass" asp-for="Password" placeholder="Password" required="">
+			<input class="text w3lpass" asp-for="ConfirmPassword" placeholder="Confirm Password" required="">
+			<div class="wthree-text">
+				<label class="anim">
+					<input asp-for="IsAgree" class="checkbox" required="">
+					<span>I Agree To The Terms & Conditions</span>
+				</label>
+				<div class="clear"> </div>
+			</div>
+			<input type="submit" value="SIGNUP">
+		</form>
+		<p>Already have an Account? <a asp-action="Login"> Login Now!</a></p>
+	</div>
+</div> *@
+
+
+
+<section class="signup">
+    <div class="container">
+        <div asp-validation-summary="All" class="text-danger"></div>
+
+        <div class="signup-content">
+            <div class="signup-form">
+                <h2 class="form-title">Sign up</h2>
+                <form method="post" class="register-form" id="register-form">
+
+                    <div class="form-group">
+                        <label asp-for="Fname"><i class="zmdi zmdi-account material-icons-name"></i></label>
+                        <input type="text" asp-for="Fname" id="Fname" placeholder="Your First Name" />
+                        @* <span asp-validation-for="Fname" class="text-danger"></span> *@
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Lname"><i class="zmdi zmdi-account material-icons-name"></i></label>
+                        <input type="text" asp-for="Lname" id="Lname" placeholder="Your Last Name" />
+@*                         <span asp-validation-for="Lname" class="text-danger"></span> *@
+
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Email"><i class="zmdi zmdi-email"></i></label>
+                        <input type="email" asp-for="Email" id="email" placeholder="Your Email" />
+                        @* <span asp-validation-for="Email" class="text-danger"></span> *@
+
+                    </div>
+                    <div class="form-group">
+                        <label for="pass"><i class="zmdi zmdi-lock"></i></label>
+                        <input type="password" asp-for="Password" id="pass" placeholder="Password" />
+                        @* <span asp-validation-for="Password" class="text-danger"></span> *@
+
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="ConfirmPassword"><i class="zmdi zmdi-lock-outline"></i></label>
+                        <input type="password" asp-for="ConfirmPassword" id="re_pass" placeholder="Repeat your password" />
+                        @* <span asp-validation-for="ConfirmPassword" class="text-danger"></span> *@
+
+                    </div>
+                    <div class="form-group">
+                        <input type="checkbox" asp-for="IsAgree"  id="agree-term" class="agree-term" />
+                        <label for="agree-term" class="label-agree-term"><span><span></span></span>I agree all statements in  <a href="#" class="term-service">Terms of service</a></label>
+                        @* <span asp-validation-for="IsAgree" class="text-danger"></span> *@
+
+                    </div>
+                    <div class="form-group form-button">
+                        <input type="submit" name="signup" id="signup" class="form-submit" value="SIGNUP" />
+                    </div>
+
+                </form>
+            </div>
+            <div class="signup-image">
+                <figure>
+                   
+                    <img src="~/images/signup-image.jpg" alt="sing up image" />
+                </figure>
+                <a asp-action="Login" class="signup-image-link">I am already member</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+@section validationScript {
+    <partial name="_ValidationScriptsPartial" />
+}
+

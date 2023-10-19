@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EFG_MVCPL.props" />
+</Project>

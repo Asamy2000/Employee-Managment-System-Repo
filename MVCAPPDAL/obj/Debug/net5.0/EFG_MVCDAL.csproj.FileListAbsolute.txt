@@ -1,0 +1,12 @@
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\EFG_MVCAPP01\EFG_MVCDAL\bin\Debug\net5.0\EFG_MVCDAL.deps.json
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\EFG_MVCAPP01\EFG_MVCDAL\bin\Debug\net5.0\EFG_MVCDAL.dll
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\EFG_MVCAPP01\EFG_MVCDAL\bin\Debug\net5.0\EFG_MVCDAL.pdb
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\EFG_MVCAPP01\EFG_MVCDAL\obj\Debug\net5.0\EFG_MVCDAL.csproj.AssemblyReference.cache
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\EFG_MVCAPP01\EFG_MVCDAL\obj\Debug\net5.0\EFG_MVCDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\EFG_MVCAPP01\EFG_MVCDAL\obj\Debug\net5.0\EFG_MVCDAL.AssemblyInfoInputs.cache
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\EFG_MVCAPP01\EFG_MVCDAL\obj\Debug\net5.0\EFG_MVCDAL.AssemblyInfo.cs
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\EFG_MVCAPP01\EFG_MVCDAL\obj\Debug\net5.0\EFG_MVCDAL.csproj.CoreCompileInputs.cache
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\EFG_MVCAPP01\EFG_MVCDAL\obj\Debug\net5.0\EFG_MVCDAL.dll
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\EFG_MVCAPP01\EFG_MVCDAL\obj\Debug\net5.0\refint\EFG_MVCDAL.dll
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\EFG_MVCAPP01\EFG_MVCDAL\obj\Debug\net5.0\EFG_MVCDAL.pdb
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\EFG_MVCAPP01\EFG_MVCDAL\obj\Debug\net5.0\ref\EFG_MVCDAL.dll

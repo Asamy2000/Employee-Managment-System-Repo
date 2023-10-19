@@ -1,0 +1,24 @@
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\MVCAPP01\MVCAPPDAL\bin\Debug\net5.0\MVCAPPDAL.deps.json
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\MVCAPP01\MVCAPPDAL\bin\Debug\net5.0\MVCAPPDAL.dll
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\MVCAPP01\MVCAPPDAL\bin\Debug\net5.0\MVCAPPDAL.pdb
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\MVCAPP01\MVCAPPDAL\obj\Debug\net5.0\MVCAPPDAL.csproj.AssemblyReference.cache
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\MVCAPP01\MVCAPPDAL\obj\Debug\net5.0\MVCAPPDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\MVCAPP01\MVCAPPDAL\obj\Debug\net5.0\MVCAPPDAL.AssemblyInfoInputs.cache
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\MVCAPP01\MVCAPPDAL\obj\Debug\net5.0\MVCAPPDAL.AssemblyInfo.cs
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\MVCAPP01\MVCAPPDAL\obj\Debug\net5.0\MVCAPPDAL.csproj.CoreCompileInputs.cache
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\MVCAPP01\MVCAPPDAL\obj\Debug\net5.0\MVCAPPDAL.dll
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\MVCAPP01\MVCAPPDAL\obj\Debug\net5.0\refint\MVCAPPDAL.dll
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\MVCAPP01\MVCAPPDAL\obj\Debug\net5.0\MVCAPPDAL.pdb
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\MVCAPP01\MVCAPPDAL\obj\Debug\net5.0\ref\MVCAPPDAL.dll
+D:\web\backend\39\05 ASP.NET Core MVC\MVCAPP01\MVCAPPDAL\bin\Debug\net5.0\MVCAPPDAL.deps.json
+D:\web\backend\39\05 ASP.NET Core MVC\MVCAPP01\MVCAPPDAL\bin\Debug\net5.0\MVCAPPDAL.dll
+D:\web\backend\39\05 ASP.NET Core MVC\MVCAPP01\MVCAPPDAL\bin\Debug\net5.0\MVCAPPDAL.pdb
+D:\web\backend\39\05 ASP.NET Core MVC\MVCAPP01\MVCAPPDAL\obj\Debug\net5.0\MVCAPPDAL.csproj.AssemblyReference.cache
+D:\web\backend\39\05 ASP.NET Core MVC\MVCAPP01\MVCAPPDAL\obj\Debug\net5.0\MVCAPPDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\backend\39\05 ASP.NET Core MVC\MVCAPP01\MVCAPPDAL\obj\Debug\net5.0\MVCAPPDAL.AssemblyInfoInputs.cache
+D:\web\backend\39\05 ASP.NET Core MVC\MVCAPP01\MVCAPPDAL\obj\Debug\net5.0\MVCAPPDAL.AssemblyInfo.cs
+D:\web\backend\39\05 ASP.NET Core MVC\MVCAPP01\MVCAPPDAL\obj\Debug\net5.0\MVCAPPDAL.csproj.CoreCompileInputs.cache
+D:\web\backend\39\05 ASP.NET Core MVC\MVCAPP01\MVCAPPDAL\obj\Debug\net5.0\MVCAPPDAL.dll
+D:\web\backend\39\05 ASP.NET Core MVC\MVCAPP01\MVCAPPDAL\obj\Debug\net5.0\refint\MVCAPPDAL.dll
+D:\web\backend\39\05 ASP.NET Core MVC\MVCAPP01\MVCAPPDAL\obj\Debug\net5.0\MVCAPPDAL.pdb
+D:\web\backend\39\05 ASP.NET Core MVC\MVCAPP01\MVCAPPDAL\obj\Debug\net5.0\ref\MVCAPPDAL.dll

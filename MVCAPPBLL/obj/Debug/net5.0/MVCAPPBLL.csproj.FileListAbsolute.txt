@@ -1,0 +1,30 @@
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\MVCAPP01\MVCAPPBLL\bin\Debug\net5.0\MVCAPPBLL.deps.json
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\MVCAPP01\MVCAPPBLL\bin\Debug\net5.0\MVCAPPBLL.dll
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\MVCAPP01\MVCAPPBLL\bin\Debug\net5.0\MVCAPPBLL.pdb
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\MVCAPP01\MVCAPPBLL\bin\Debug\net5.0\MVCAPPDAL.dll
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\MVCAPP01\MVCAPPBLL\bin\Debug\net5.0\MVCAPPDAL.pdb
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\MVCAPP01\MVCAPPBLL\obj\Debug\net5.0\MVCAPPBLL.csproj.AssemblyReference.cache
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\MVCAPP01\MVCAPPBLL\obj\Debug\net5.0\MVCAPPBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\MVCAPP01\MVCAPPBLL\obj\Debug\net5.0\MVCAPPBLL.AssemblyInfoInputs.cache
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\MVCAPP01\MVCAPPBLL\obj\Debug\net5.0\MVCAPPBLL.AssemblyInfo.cs
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\MVCAPP01\MVCAPPBLL\obj\Debug\net5.0\MVCAPPBLL.csproj.CoreCompileInputs.cache
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\MVCAPP01\MVCAPPBLL\obj\Debug\net5.0\MVCAPPBLL.csproj.CopyComplete
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\MVCAPP01\MVCAPPBLL\obj\Debug\net5.0\MVCAPPBLL.dll
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\MVCAPP01\MVCAPPBLL\obj\Debug\net5.0\refint\MVCAPPBLL.dll
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\MVCAPP01\MVCAPPBLL\obj\Debug\net5.0\MVCAPPBLL.pdb
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\MVCAPP01\MVCAPPBLL\obj\Debug\net5.0\ref\MVCAPPBLL.dll
+D:\web\backend\39\05 ASP.NET Core MVC\MVCAPP01\MVCAPPBLL\bin\Debug\net5.0\MVCAPPBLL.deps.json
+D:\web\backend\39\05 ASP.NET Core MVC\MVCAPP01\MVCAPPBLL\bin\Debug\net5.0\MVCAPPBLL.dll
+D:\web\backend\39\05 ASP.NET Core MVC\MVCAPP01\MVCAPPBLL\bin\Debug\net5.0\MVCAPPBLL.pdb
+D:\web\backend\39\05 ASP.NET Core MVC\MVCAPP01\MVCAPPBLL\bin\Debug\net5.0\MVCAPPDAL.dll
+D:\web\backend\39\05 ASP.NET Core MVC\MVCAPP01\MVCAPPBLL\bin\Debug\net5.0\MVCAPPDAL.pdb
+D:\web\backend\39\05 ASP.NET Core MVC\MVCAPP01\MVCAPPBLL\obj\Debug\net5.0\MVCAPPBLL.csproj.AssemblyReference.cache
+D:\web\backend\39\05 ASP.NET Core MVC\MVCAPP01\MVCAPPBLL\obj\Debug\net5.0\MVCAPPBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\backend\39\05 ASP.NET Core MVC\MVCAPP01\MVCAPPBLL\obj\Debug\net5.0\MVCAPPBLL.AssemblyInfoInputs.cache
+D:\web\backend\39\05 ASP.NET Core MVC\MVCAPP01\MVCAPPBLL\obj\Debug\net5.0\MVCAPPBLL.AssemblyInfo.cs
+D:\web\backend\39\05 ASP.NET Core MVC\MVCAPP01\MVCAPPBLL\obj\Debug\net5.0\MVCAPPBLL.csproj.CoreCompileInputs.cache
+D:\web\backend\39\05 ASP.NET Core MVC\MVCAPP01\MVCAPPBLL\obj\Debug\net5.0\MVCAPPBLL.csproj.CopyComplete
+D:\web\backend\39\05 ASP.NET Core MVC\MVCAPP01\MVCAPPBLL\obj\Debug\net5.0\MVCAPPBLL.dll
+D:\web\backend\39\05 ASP.NET Core MVC\MVCAPP01\MVCAPPBLL\obj\Debug\net5.0\refint\MVCAPPBLL.dll
+D:\web\backend\39\05 ASP.NET Core MVC\MVCAPP01\MVCAPPBLL\obj\Debug\net5.0\MVCAPPBLL.pdb
+D:\web\backend\39\05 ASP.NET Core MVC\MVCAPP01\MVCAPPBLL\obj\Debug\net5.0\ref\MVCAPPBLL.dll

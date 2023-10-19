@@ -1,0 +1,83 @@
+﻿@model LoginVM
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_SecurityLayout.cshtml";
+}
+
+@* <div asp-validation-summary="All"></div>
+<div class="main-agileinfo">
+	<div class="agileits-top">
+		<form asp-action="Login" method="post">
+			<input class="text w3lpass" asp-for="Email" placeholder="Email" required="">
+			<input class="text w3lpass" asp-for="Password" placeholder="Password" required="">
+			<div class="wthree-text">
+				<label class="anim">
+					<input asp-for="RemeberMe" class="checkbox" required="">
+					<span>Remeber Me</span>
+				</label>
+				<div class="clear"> </div>
+			</div>
+			<input type="submit" value="SIGNIN">
+		</form>
+		<p>Don,t have an Account? <a asp-action="Register"> Register Now!</a></p>
+		<p>Forget your Password? <a asp-action="ForgetPassword"> Reset Password </a></p>
+	</div>
+</div> *@
+
+
+<section class="sign-in">
+    <div class="container">
+        <div asp-validation-summary="All" class="text-danger"></div>
+
+        <div class="signin-content">
+            <div class="signin-image">
+                <figure><img src="images/signin-image.jpg" alt="sing up image"></figure>
+                <a asp-action="Register" class="signup-image-link">Create an account</a>
+                <p>Forget your Password? <a asp-action="ForgetPassword"> Reset Password </a></p>
+
+            </div>
+
+            <div class="signin-form">
+                <h2 class="form-title">Sign up</h2>
+
+
+
+
+                <form asp-action="Login" method="post" class="register-form" id="login-form">
+                    <div class="form-group">
+                        <label for="your_name"><i class="zmdi zmdi-account material-icons-name"></i></label>
+                        <input asp-for="Email" type="text"  id="your_name" placeholder="Your Email" />
+                    </div>
+                    <div class="form-group">
+                        <label for="your_pass"><i class="zmdi zmdi-lock"></i></label>
+                        <input asp-for="Password" type="password"  id="your_pass" placeholder="Password" />
+                    </div>
+                    <div class="form-group">
+                        <input asp-for="RemeberMe" type="checkbox"  id="remember-me" class="agree-term" />
+                        <label for="remember-me" class="label-agree-term"><span><span></span></span>Remember me</label>
+                    </div>
+                    <div class="form-group form-button">
+                        <input type="submit" name="signin" id="signin" class="form-submit" value="Log in" />
+                    </div>
+                </form>
+
+
+
+                <div class="social-login">
+                    <span class="social-label">Or login with</span>
+                    <ul class="socials">
+                        <li><a class="disabled" href="#"><i class="display-flex-center zmdi zmdi-facebook"></i></a></li>
+                        <li><a class="disabled" href="#"><i class="display-flex-center zmdi zmdi-twitter"></i></a></li>
+                        <li><a asp-action="GoogleResponse" ><i class="display-flex-center zmdi zmdi-google"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@section validationScript {
+	<partial name="_ValidationScriptsPartial" />
+}
+
+

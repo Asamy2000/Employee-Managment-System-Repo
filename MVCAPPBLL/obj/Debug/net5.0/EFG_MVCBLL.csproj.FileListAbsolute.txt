@@ -1,0 +1,15 @@
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\EFG_MVCAPP01\EFG_MVCBLL\bin\Debug\net5.0\EFG_MVCBLL.deps.json
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\EFG_MVCAPP01\EFG_MVCBLL\bin\Debug\net5.0\EFG_MVCBLL.dll
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\EFG_MVCAPP01\EFG_MVCBLL\bin\Debug\net5.0\EFG_MVCBLL.pdb
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\EFG_MVCAPP01\EFG_MVCBLL\bin\Debug\net5.0\EFG_MVCDAL.dll
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\EFG_MVCAPP01\EFG_MVCBLL\bin\Debug\net5.0\EFG_MVCDAL.pdb
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\EFG_MVCAPP01\EFG_MVCBLL\obj\Debug\net5.0\EFG_MVCBLL.csproj.AssemblyReference.cache
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\EFG_MVCAPP01\EFG_MVCBLL\obj\Debug\net5.0\EFG_MVCBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\EFG_MVCAPP01\EFG_MVCBLL\obj\Debug\net5.0\EFG_MVCBLL.AssemblyInfoInputs.cache
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\EFG_MVCAPP01\EFG_MVCBLL\obj\Debug\net5.0\EFG_MVCBLL.AssemblyInfo.cs
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\EFG_MVCAPP01\EFG_MVCBLL\obj\Debug\net5.0\EFG_MVCBLL.csproj.CoreCompileInputs.cache
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\EFG_MVCAPP01\EFG_MVCBLL\obj\Debug\net5.0\EFG_MVCBLL.csproj.CopyComplete
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\EFG_MVCAPP01\EFG_MVCBLL\obj\Debug\net5.0\EFG_MVCBLL.dll
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\EFG_MVCAPP01\EFG_MVCBLL\obj\Debug\net5.0\refint\EFG_MVCBLL.dll
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\EFG_MVCAPP01\EFG_MVCBLL\obj\Debug\net5.0\EFG_MVCBLL.pdb
+D:\web\backend\39\05 ASP.NET Core MVC\Session 02\EFG_MVCAPP01\EFG_MVCBLL\obj\Debug\net5.0\ref\EFG_MVCBLL.dll

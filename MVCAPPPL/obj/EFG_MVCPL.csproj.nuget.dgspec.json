@@ -1,0 +1,219 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\web\\backend\\39\\05 ASP.NET Core MVC\\Session 02\\EFG_MVCAPP01\\EFG_MVCAPP\\EFG_MVCPL.csproj": {}
+  },
+  "projects": {
+    "D:\\web\\backend\\39\\05 ASP.NET Core MVC\\Session 02\\EFG_MVCAPP01\\EFG_MVCAPP\\EFG_MVCPL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\web\\backend\\39\\05 ASP.NET Core MVC\\Session 02\\EFG_MVCAPP01\\EFG_MVCAPP\\EFG_MVCPL.csproj",
+        "projectName": "EFG_MVCPL",
+        "projectPath": "D:\\web\\backend\\39\\05 ASP.NET Core MVC\\Session 02\\EFG_MVCAPP01\\EFG_MVCAPP\\EFG_MVCPL.csproj",
+        "packagesPath": "C:\\Users\\samy0\\.nuget\\packages\\",
+        "outputPath": "D:\\web\\backend\\39\\05 ASP.NET Core MVC\\Session 02\\EFG_MVCAPP01\\EFG_MVCAPP\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\samy0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\web\\backend\\39\\05 ASP.NET Core MVC\\Session 02\\EFG_MVCAPP01\\EFG_MVCBLL\\EFG_MVCBLL.csproj": {
+                "projectPath": "D:\\web\\backend\\39\\05 ASP.NET Core MVC\\Session 02\\EFG_MVCAPP01\\EFG_MVCBLL\\EFG_MVCBLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.7.23376.3\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\web\\backend\\39\\05 ASP.NET Core MVC\\Session 02\\EFG_MVCAPP01\\EFG_MVCBLL\\EFG_MVCBLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\web\\backend\\39\\05 ASP.NET Core MVC\\Session 02\\EFG_MVCAPP01\\EFG_MVCBLL\\EFG_MVCBLL.csproj",
+        "projectName": "EFG_MVCBLL",
+        "projectPath": "D:\\web\\backend\\39\\05 ASP.NET Core MVC\\Session 02\\EFG_MVCAPP01\\EFG_MVCBLL\\EFG_MVCBLL.csproj",
+        "packagesPath": "C:\\Users\\samy0\\.nuget\\packages\\",
+        "outputPath": "D:\\web\\backend\\39\\05 ASP.NET Core MVC\\Session 02\\EFG_MVCAPP01\\EFG_MVCBLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\samy0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\web\\backend\\39\\05 ASP.NET Core MVC\\Session 02\\EFG_MVCAPP01\\EFG_MVCDAL\\EFG_MVCDAL.csproj": {
+                "projectPath": "D:\\web\\backend\\39\\05 ASP.NET Core MVC\\Session 02\\EFG_MVCAPP01\\EFG_MVCDAL\\EFG_MVCDAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.7.23376.3\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\web\\backend\\39\\05 ASP.NET Core MVC\\Session 02\\EFG_MVCAPP01\\EFG_MVCDAL\\EFG_MVCDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\web\\backend\\39\\05 ASP.NET Core MVC\\Session 02\\EFG_MVCAPP01\\EFG_MVCDAL\\EFG_MVCDAL.csproj",
+        "projectName": "EFG_MVCDAL",
+        "projectPath": "D:\\web\\backend\\39\\05 ASP.NET Core MVC\\Session 02\\EFG_MVCAPP01\\EFG_MVCDAL\\EFG_MVCDAL.csproj",
+        "packagesPath": "C:\\Users\\samy0\\.nuget\\packages\\",
+        "outputPath": "D:\\web\\backend\\39\\05 ASP.NET Core MVC\\Session 02\\EFG_MVCAPP01\\EFG_MVCDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\samy0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.7.23376.3\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
