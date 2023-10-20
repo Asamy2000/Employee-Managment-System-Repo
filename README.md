@@ -11,6 +11,9 @@ Entity Framework Core for database operations
 Role-based access control (RBAC)
 Google authentication for user login
 Exception handling for robust performance
+Repository Design Pattern
+Unit Of work Design Pattern
+Three-Tire architecture
 
 ## Controllers
 
